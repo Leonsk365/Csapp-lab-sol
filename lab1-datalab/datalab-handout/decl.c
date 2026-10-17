@@ -51,7 +51,7 @@ test_rec test_set[] = {
      {{1, 1},{1,1},{1,1}}},
  {"floatPower2", (funct_t) floatPower2, (funct_t) test_floatPower2, 1,
     "$", 30, 4,
-     {{1, 1},{1,1},{1,1}}},
+     {{-150, 150},{1,1},{1,1}}},
   {"", NULL, NULL, 0, "", 0, 0,
    {{0, 0},{0,0},{0,0}}}
 };
